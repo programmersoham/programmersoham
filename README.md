@@ -27,7 +27,7 @@ I am a Full Stack Developer, Technical Writer and DevRel with a passion for crea
 
 
 #### :call_me_hand: Connect with me
-[__Twitter__](https://twitter.com/programmersoham) | [__Email__](mailto:contact@programmersoham.tech) | [__Blog__](https://programmersoham.tech) | [__LinkedIn__](https://www.linkedin.com/in/programmersoham.tech/) | [__Instagram__](https://instagram.com/programmersoham) | [__Youtube__](https://youtube.com/@programmersoham) | [__linktreee__](https://linktr.ee/programmersoham)
+[__Twitter__](https://twitter.com/programmersoham) | [__Email__](mailto:contact@programmersoham.tech) | [__Blog__](https://programmersoham.tech) | [__LinkedIn__](https://www.linkedin.com/in/programmersoham.tech/) | [__Instagram__](https://instagram.com/programmersoham) | [__Youtube__](https://youtube.com/@programmersoham) | [__Other Links__](https://linktr.ee/programmersoham)
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
