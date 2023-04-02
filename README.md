@@ -23,7 +23,7 @@ I am a Full Stack Developer, Technical Writer and DevRel with a passion for crea
  - 🔭 I’m currently participating in various hackathons and contributing to open source projects.
  -  💬 Ask me about Javascript Frameworks
  -  📫 How to reach me: Twitter/Linkedin or Email me
- -  - 🌱 I’m available as @programmersoham on major social media platforms,
+ -   🌱 I’m available as @programmersoham on major social media platforms,
 
 
 #### :call_me_hand: Connect with me
