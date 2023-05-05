@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Programmer Soham </h1>
+<h1 align="center">Hi , I am  Soham </h1>
 I am a Software Developer and DevRel with a passion for creating innovative solutions and help other developers.  I am also a proud participant in the LinkedIn India Creator Knowledge Program '23, where I am excited to contribute my knowledge and expertise to the program. Through my diverse experiences, I have developed a unique perspective on the tech industry, and I am excited to see where my journey takes me next.
 
  - ⚡ Fun fact: I love sharing memes
