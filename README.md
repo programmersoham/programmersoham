@@ -29,8 +29,3 @@ I am a Software Developer and DevRel with a passion for creating innovative solu
 #### :call_me_hand: Connect with me
 [__Twitter__](https://twitter.com/programmersoham) | [__Email__](mailto:purohit.soham.ps@gmail.com) | [__Blog__](https://programmersoham.tech) | [__LinkedIn__](https://www.linkedin.com/in/programmersoham.tech/) | [__Instagram__](https://instagram.com/programmersoham) | [__Youtube__](https://youtube.com/@programmersoham) | [__Other Links__](https://linktr.ee/programmersoham)
 
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
-
-
-<!-- BLOGPOSTS:END -->
